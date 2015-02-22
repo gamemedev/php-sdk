@@ -4,7 +4,7 @@
 	 * gameME SDK
 	 * Webpage: http://www.gameme.com
 	 * Docs: http://www.gameme.com/docs/api/sdk
-	 * Copyright (C) 2011-2013 TTS Oetzel & Goerz GmbH
+	 * Copyright (C) 2011-2015 TTS Oetzel & Goerz GmbH
 	 * 
 	 * This program is free software; you can redistribute it and/or
 	 * modify it under the terms of the GNU General Public License
